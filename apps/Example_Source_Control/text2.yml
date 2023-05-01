@@ -10,7 +10,7 @@ template:
     - showInEditor: false
     - verticalAlign: center
     - tooltipText: ''
-    - value: 👋 **Hello {{ current_user.firstName || 'friend' }}!**
+    - value: '123456'
     - disableMarkdown: false
     - overflowType: scroll
     - maintainSpaceWhenHidden: false
